@@ -1,2 +1,2 @@
-# qconnectify
+# qint
 Hybrid Integration Platform
